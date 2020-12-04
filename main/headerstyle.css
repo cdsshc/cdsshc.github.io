@@ -21,10 +21,9 @@ div.body {
   position: relative;
   overflow: hidden;
   max-width: 100%;
-  background-color: #fff;
+  background-color: #f1f1f1;
   padding: 0 20px;
   
-  box-shadow: 0 10px 40px rgba(159, 162, 177, 0.8);
 }
 
 .nav-item {
